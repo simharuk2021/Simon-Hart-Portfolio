@@ -64,39 +64,12 @@ a:hover, a:focus {
   text-decoration: none;
 }
 
-a:active {
+a:active, a:focus {
   /*active link -sets the link to sunray*/
   color: #e5b25d;
 }
 
-a:focus {
-  /*active link -sets the link to sunray*/
-  color: #e5b25d;
-}
-
-.button {
-  border: none;
-  /*Overwrites styling for the button border*/
-  display: inline-block;
-  /*takes the font from the outer container*/
-  font-family: inherit;
-  /*styles*/
-  color: #523A34;
-  /*changes the text color*/
-  text-decoration: none;
-  /*removes the underlining*/
-  border-style: ridge;
-  /*creates a solid line for the border*/
-  border-radius: 3px;
-  /*rounds the corners of the border*/
-  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
-  background-color: #CFF27E;
-  -webkit-transition: 0.2s opacity, 0.8s font-size;
-  -o-transition: 0.2s opacity, 0.8s font-size;
-  transition: 0.2s opacity, 0.8s font-size;
-}
-
-button {
+.button, button {
   border: none;
   /*Overwrites styling for the button border*/
   display: inline-block;

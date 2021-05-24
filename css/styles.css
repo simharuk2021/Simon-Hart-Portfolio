@@ -172,6 +172,10 @@ a:active, a:focus {
   width: 33%;
 }
 
+.berlin-illustration {
+  max-height: 505px;
+}
+
 /* end grid fallback */
 @supports (display: grid) {
   .grid {
