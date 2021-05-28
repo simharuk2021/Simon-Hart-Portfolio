@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <title>contact</title>
   <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-  <link rel="stylesheet" type="text/css" href="https://yarn.pm/normalize.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css">
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/style.production.css">
@@ -14,7 +14,9 @@
 
 <body>
   <header class="page-header">
-    <img src="img/logo.PNG" alt="logo combining my name and a closing HTML container" class="page-header__item">
+    <div>
+      <img src="img/logo.PNG" alt="logo combining my name and a closing HTML container" class="page-header__item">
+    </div>
     <nav class="main-navigation page-header__item">
       <ul role="menubar" class="navigation-list">
         <li role="presentation">
@@ -47,7 +49,7 @@
         <label for="Telephone">Telephone: </label>
         <input id="Telephone" required>
         <label for="Message">Message: </label>
-        <textarea id="Message"=maxlength="100"></textarea>
+        <textarea id="Message" maxlength="100"></textarea>
         <input type="submit" value="Send message">
       </form>
     </section>

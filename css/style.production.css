@@ -189,7 +189,6 @@ a:active, a:focus {
 
 .navigation-list__item:hover, .navigation-list__item:focus, navigation-list__item:hover, navigation-list__item:focus {
   cursor: pointer;
-  font-size: 17px;
 }
 
 .grid {
