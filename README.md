@@ -32,7 +32,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-<h3 align="center">Chat the App</h3>
+<h3 align="center">Portfolio</h3>
 
   <!-- <p align="center">
     project_description
@@ -93,7 +93,6 @@
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-* [JavaScript] (https://www.javascript.com/)
 
 
 
@@ -105,11 +104,11 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The project has been developed by creating by using a pre-existing API to get the details of Pokemon. These details are then rendered as a list which each Pokemon in the list representing a button.  Once a button is clicked on the details of the Pokemon are rendered in the form of a modal.
+The project has been developed by creating several linked HMTL pages which are styled with CSS.  The final project has been styled with Bootstrap. 
 
 ### Prerequisites
 
-There are no prerequisites other than to be able to navigate to the home page (https://simharuk2021.github.io/Pokemon-App/)
+There are no prerequisites other than to be able to navigate to the home page (https://simharuk2021.github.io/Simon-Hart-Portfolio/index.html)
 
 
 ### Installation
@@ -124,11 +123,13 @@ No specific installation instructions
 <!-- USAGE EXAMPLES -->
 ## User Stories
 
-● As a new user, I want to be able to fetch data from a pre-existing Application Programming Interface.
+● As a new user, I want to be able to view a **homepage** which has a short introduction and links to work examples
 
-● As a user, I want to be able to view a list of the Pokemon by name.
+● As a user, I want to be able to view an **about** page which includes key information, skills and programming languages/tools.
 
-● As a user, I want to view the details of the Pokemon once I have clicked on the name
+● As a user, I want to view a **work** page which includes links and pictures to the various projects
+
+● As a user, I want to view a **contact** section where I can contact the creator of the pages.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
