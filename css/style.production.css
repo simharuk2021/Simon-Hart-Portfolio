@@ -109,6 +109,7 @@ a:active, a:focus {
 
 .contact-section, .work, .minicv {
   text-align: center;
+  vertical-align:middle;
 }
 
 .page-footer {
@@ -199,6 +200,7 @@ a:active, a:focus {
   -ms-grid-rows: 2fr 10px 2fr;
   grid-template-rows: 2fr 2fr;
   grid-gap: 10px;
+  padding: 10px;
 }
 
 .grid>*:nth-child(1) {
