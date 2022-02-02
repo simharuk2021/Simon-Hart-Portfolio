@@ -107,9 +107,14 @@ a:active, a:focus {
   border-radius: 50%;
 }
 
-.contact-section, .work, .minicv {
+ .work, .minicv {
   text-align: center;
-  vertical-align:middle;
+  
+  
+}
+
+.contact-section {
+  align-items: center;
 }
 
 .page-footer {
