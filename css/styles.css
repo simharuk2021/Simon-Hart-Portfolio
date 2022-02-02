@@ -97,6 +97,8 @@ a:active, a:focus {
 }
 
  .work, .minicv, .contact-section {
+   display:flex;
+   flex-direction: column;
   text-align: center;
   align-items: center;
 }
