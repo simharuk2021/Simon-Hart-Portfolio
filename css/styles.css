@@ -96,8 +96,9 @@ a:active, a:focus {
   border-radius: 50%;
 }
 
- .work, .minicv {
+ .work, .minicv, .contact-section {
   text-align: center;
+  align-items: center;
 }
 
 /* .contact-section {
