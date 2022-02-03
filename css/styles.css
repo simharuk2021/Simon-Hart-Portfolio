@@ -96,20 +96,19 @@ a:active, a:focus {
   border-radius: 50%;
 }
 
- .work, .minicv, .contact-section {
+ .work, .minicv {
    display:flex;
    flex-direction: column;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
+ 
 }
 
-/* .contact-section {
+ .contact-section {
   width:40%;
-  margin:auto;
-  align-items: center;
+  margin-left:auto;
+  margin-right: auto;
+  width:50rem;
 }
-
+/*
 .labels{
   width:30%;
   float:left;
