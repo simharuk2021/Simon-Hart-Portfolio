@@ -114,9 +114,41 @@ a:active, a:focus {
 }
 
 .contact-section {
-  align-items: center;
+  width:40%;
+  margin-left:auto;
+  margin-right: auto;
+  width:50rem;
 }
 
+#formContainer{
+  width:40%;
+  margin:auto;
+  margin-top: 10px;
+}
+#formC{
+  width:100%;
+}
+.rows{
+  width:100%;
+  display:block;
+
+}
+.column{
+    width:100%;
+    display:inline-block;
+    
+}
+.theLabels{
+  
+  width:30%;
+  float:left;
+}
+.theInputs{
+  
+
+  width:60%;
+  float:right;
+}
 .page-footer {
   clear: both;
   display: -webkit-box;

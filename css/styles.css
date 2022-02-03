@@ -108,46 +108,8 @@ a:active, a:focus {
   margin-right: auto;
   width:50rem;
 }
-/*
-.labels{
-  width:30%;
-  float:left;
-}
 
-.input{
-  width:60%;
-  float:right;
-} */
 
-#formContainer{
-  width:40%;
-  margin:auto;
-  margin-top: 10px;
-}
-#formC{
-  width:100%;
-}
-.rows{
-  width:100%;
-  display:block;
-
-}
-.column{
-    width:100%;
-    display:inline-block;
-    
-}
-.theLabels{
-  
-  width:30%;
-  float:left;
-}
-.theInputs{
-  
-
-  width:60%;
-  float:right;
-}
 
 .page-footer {
   clear: both;
