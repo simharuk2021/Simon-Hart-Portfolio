@@ -101,6 +101,7 @@ a:active, a:focus {
    flex-direction: column;
   text-align: center;
   align-items: center;
+  justify-content: center;
 }
 
 /* .contact-section {
@@ -122,6 +123,7 @@ a:active, a:focus {
 #formContainer{
   width:40%;
   margin:auto;
+  margin-top: 10px;
 }
 #formC{
   width:100%;
