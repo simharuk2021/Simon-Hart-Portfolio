@@ -97,8 +97,7 @@ a:active, a:focus {
 }
 
  .work, .minicv {
-   display:flex;
-   flex-direction: column;
+  text-align: center;
  
 }
 
